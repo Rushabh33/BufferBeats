@@ -1,3 +1,14 @@
+Currently it's more like BufferSignal....
+Red when starting
+Yellow icon when ChatGPT is generating a response
+Green icon when ChatGPT is finished generating
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
